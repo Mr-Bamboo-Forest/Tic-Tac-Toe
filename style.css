@@ -133,14 +133,17 @@
     border: 1px solid black;
     padding: .25em .5em;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   .winning-message button:hover {
     background-color: black;
     color: white;
     border-color: white;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   .winning-message.show {
     display: flex;
+    font-family: Arial, Helvetica, sans-serif;
   }
